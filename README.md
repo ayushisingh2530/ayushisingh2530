@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ayushisingh2530
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Ayushi_Singh
+- 👀 I’m interested in AI, Literature and Human Psychology
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on AI and GPT Models
+- 📫 How to reach me - drop an email at ayu80044@gmail.com !
 
 <!---
 ayushisingh2530/ayushisingh2530 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
